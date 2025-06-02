@@ -27,6 +27,7 @@ A Big Data healthcare analytics project using Apache Spark SQL and Spark MLlib t
 
 - Spark SQL enabled fast querying over large-scale health data to reveal patterns in heart disease prevalence.
 - Machine Learning results:
+  
 K-Means clustering successfully grouped individuals into distinct health profiles.
 
 Logistic Regression provided the most reliable predictive performance with high recall.
